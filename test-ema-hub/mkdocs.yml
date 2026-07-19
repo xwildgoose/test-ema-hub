@@ -2,7 +2,7 @@ site_name: EMA Knowledge Hub
 site_description: Source content for the EMA chatbot. FastBots crawls this site on a schedule.
 # CHANGE THIS to your GitHub Pages URL once the repo exists, e.g.
 # https://YOURUSERNAME.github.io/ema-hub/
-site_url: https://YOURUSERNAME.github.io/ema-hub/
+site_url: https://xwildgoose.github.io/test-ema-hub/
 docs_dir: docs
 theme:
   name: material
