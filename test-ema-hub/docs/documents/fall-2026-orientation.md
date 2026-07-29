@@ -1,27 +1,29 @@
-# New Student Orientation — Fall 2026
+# New Student Orientation & Welcome — Fall 2026
 
-Welcome activities for new students starting Fall 2026.
+Welcome activities for new students starting Fall 2026, across the UB Oakes Field
+campus (New Providence) and UB North (Grand Bahama). First day of classes is
+**Monday, 24 August 2026**.
 
-## Parents and Guardians Evening — UB North
-**Thursday, 13 August 2026**
-UB North, Freeport, Grand Bahama
+## Before the semester
+- **Friday, 26 June 2026** — Early Accepted Students Day: Pre-Mingoes Orientation (PREMO)
 
-## Parents and Guardians Meet & Greet — Oakes Field Campus
-**Friday, 14 August 2026, 6:00 p.m.**
-Performing Arts Centre, Keva M. Bethel Building
+## UB North (Grand Bahama)
+- **Thursday, 13 August 2026** — Parents Evening
+- **Tuesday–Thursday, 18–20 August 2026** — Mingoes Orientation & Welcome
 
-## Welcome to University Life Orientation — Oakes Field Campus
-**Monday, 17 August 2026, 10:00 a.m.**
-The Kendal G.L. Isaacs National Gymnasium
+## UB Oakes Field (New Providence)
+- **Friday, 14 August 2026, 6:00 p.m.** — Parents & Guardians Meet & Greet — Performing Arts Centre, Keva M. Bethel Building
+- **Saturday, 15 August 2026** — Blue Bash: Family Fun Day
+- **Sunday, 16 August 2026** — Faith for the Journey: A Night of Worship
+- **Monday, 17 August 2026, 10:00 a.m.** — Mingoes Orientation & Welcome ("Welcome to University Life: Mingo Kickoff") — Kendal G.L. Isaacs National Gymnasium
+- **Tuesday, 18 August 2026** — Discover UB: Campus Tour (Session 1); Advisement for new students
+- **Wednesday, 19 August 2026** — Mingo Cinema: Drive-In Movie Night
+- **Thursday, 20 August 2026** — Discover UB: Campus Tour (Session 2)
+- **Friday, 21 August 2026** — Mission Mingo: Survive the Night
+- **Saturday, 22 August 2026** — Community Service Day
+- **Sunday, 23 August 2026** — Sunday Fun Day
 
-## Mingoes Orientation and Welcome — UB North
-**Tuesday, 18 August 2026**
-UB North, Freeport, Grand Bahama
-
-## Fall 2026 Classes Begin
-**Monday, 24 August 2026**
-
----
-
-For more information, contact the Department of Student Engagement at
-**302-4441** or **302-4424**, or email **fye@ub.edu.bs**.
+## Registration & first week
+- **Tuesday–Friday, 18–21 August 2026** — Registration for new students (online only)
+- **Monday, 24 August 2026** — First day of classes
+- **Monday–Friday, 24–28 August 2026** — Return of the Mingoes (Student Affairs)
