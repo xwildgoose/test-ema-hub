@@ -20,6 +20,15 @@ your programme.
 - **Major area courses** — the specific knowledge of your discipline/programme.
 - **Elective courses** — courses in any area of interest (some programmes specify which electives count toward the degree).
 
+## Choosing your courses each semester
+Start with your **programme of study** and your **academic advisor** — together they identify the major, Gen Ed, and elective courses you need. Then:
+
+- **How many?** Aim for about **5–6 courses**. Full-time students (and Government Grant students) must carry **at least 12 credits** for the semester.
+- **Balance your schedule** — most students take **1–2 major courses, 1–2 Gen Ed courses, and 1–2 electives**, guided by their programme of study.
+- **Time of day** — choose morning, afternoon, or evening sections that suit you.
+- **Check prerequisites and corequisites.** A *prerequisite* is a course you must complete **before** another (e.g. ENGL 119 before ENGL 120); a *corequisite* is one you take **at the same time** (e.g. a lecture with its lab).
+- Complete the **Course Request Form** (on the UB website under Academics → Resources → Academic Forms & Policies).
+
 ## General Education
 Bachelor students take a minimum of **14 Gen Ed courses (37 credit hours)**; associate
 students take a minimum of **11 Gen Ed courses (28 credit hours)**. Gen Ed is organised into
