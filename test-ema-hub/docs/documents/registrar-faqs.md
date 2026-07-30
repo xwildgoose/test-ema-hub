@@ -87,7 +87,7 @@ your **full name & UB ID**, the **CRNs** you're trying to register for, and a **
 the error**, so they can help efficiently.
 
 ## Banner access problems
-Contact the UB IT Helpdesk: email ithelpdesk@ub.edu.bs, call **(242) 302-4300**, or WhatsApp
+Contact the UB IT Helpdesk: email ithelpdesk@ub.edu.bs, call **(242) 302-4588**, or WhatsApp
 **(242) 427-5609**.
 
 ## Registration periods
@@ -118,5 +118,5 @@ Use the account that matches your need. Forms are on the Academic **Forms & Poli
 ## Contacts
 - **Registrar, Main Campus:** (242) 302-4312 / 302-4522 · WhatsApp (242) 477-1729 or (242) 357-5650 · registrarregister@ub.edu.bs
 - **Registrar, UB North:** (242) 688-5932 · ubnregistrar@ub.edu.bs
-- **IT Helpdesk (Banner access):** (242) 302-4300 · ithelpdesk@ub.edu.bs · WhatsApp (242) 427-5609
+- **IT Helpdesk (Banner access):** (242) 302-4588 · ithelpdesk@ub.edu.bs · WhatsApp (242) 427-5609
 - **Accounts Receivable (financial holds):** (242) 302-4201 / 302-4209 · accountsreceivable@ub.edu.bs
