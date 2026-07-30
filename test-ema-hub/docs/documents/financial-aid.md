@@ -20,7 +20,7 @@ academic probation**. You apply online through Banner. All awards depend on avai
 
 ## How financial aid works
 - Aid is paid **directly to your student account** at the start of each semester (no cash is given to you), and never exceeds the cost of attending UB.
-- It is awarded **annually**, based on need and available funds, for **tuition and lab fees in Fall and Spring only** — not for the Summer session.
+- **Need-based financial aid** is awarded annually (for tuition and lab fees) in Fall and Spring only, not for the Summer session. (The Bahamas Government Tertiary Grant, by contrast, can also apply to Summer sessions — see the [Government Grants & Stipends](government-grants.md) page.)
 - Students who withdraw from or fail a course can't use aid to repeat it.
 - **Reducing your course load** or **changing your programme** without prior written approval from Financial Aid can forfeit part or all of your award (charged back to your account).
 

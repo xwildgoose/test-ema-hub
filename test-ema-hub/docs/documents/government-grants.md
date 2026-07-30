@@ -27,7 +27,7 @@ It is sometimes just called "the grant."
 - Full-time (registered for 12 or more credits in fall and spring);
 - Enrolled in an undergraduate degree programme;
 - Maintain a minimum cumulative GPA of 2.00 each fall and spring semester (and summer session);
-- Summer session is optional; if taken, enrol in at least 3 credits.
+- **Summer sessions:** the grant now also covers courses taken during **Summer Session I and Summer Session II** — if you take summer classes, register for at least **3 credits** for the summer.
 
 ## Accommodation Grant
 Up to **$500 for the academic year** (August to April) to help **Family Island
