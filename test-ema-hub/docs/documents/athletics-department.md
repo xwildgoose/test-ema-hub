@@ -1,45 +1,53 @@
 # Athletics Department
 
-UB has six varsity teams that compete locally and internationally, including against
-college teams in Florida, USA: men's basketball, men's soccer, men's & women's track &
-field, women's volleyball, and women's softball. Track & field athletes travel to about
-five international meets per year; other athletes compete in one or two international
-competitions per year.
+UB fields varsity teams — the **Mingoes** — that compete locally and internationally,
+including against college teams in Florida. The varsity sports are:
 
-UB's coaching staff recruits student-athletes from high schools and, based on ability,
-may offer financial assistance to attend UB and play a varsity sport. Student-athletes
-who weren't recruited can contact any coaching-staff member to ask about a skills
-assessment/try-out.
+- Men's Basketball
+- Men's & Women's Cross Country
+- Men's & Women's Golf
+- Men's Soccer
+- Softball
+- Men's & Women's Track & Field
+- Women's Volleyball
 
-Intercollegiate athletes must be full-time students (12+ credits per semester) and
-maintain a minimum cumulative GPA of 2.00 to stay in good academic standing and compete.
+Track & field athletes travel to several international meets each year; other teams compete
+in one or two international competitions per year.
+
+UB's coaching staff recruits student-athletes from high schools and, based on ability, may
+offer financial assistance to attend UB and play a varsity sport. Student-athletes who weren't
+recruited can contact any coaching-staff member to ask about a skills assessment or try-out.
+
+Intercollegiate athletes must be **full-time students** (12+ credits per semester) and
+maintain a minimum **cumulative GPA of 2.00** to stay in good academic standing and compete.
 
 ## Athletic Training
-The Athletic Training Department handles the healthcare needs of roughly 90
-student-athletes across the six varsity sports, staffed by a full-time certified Athletic
-Trainer. Treatments include therapeutic modalities, strengthening, stretching, manual
-therapies, balance exercises and sport-specific exercises — focused on prevention,
-treatment and rehabilitation while maximizing performance.
+The Athletic Training Department handles the healthcare needs of UB's student-athletes across
+the varsity sports — focused on prevention, treatment, and rehabilitation (therapeutic
+modalities, strengthening, stretching, manual therapies, balance and sport-specific exercises)
+to keep athletes healthy while maximising performance.
 
 ## Men's Basketball Classic
-Each year University Athletics hosts a four-team, two-day basketball classic at the
-Kendal G.L. Isaacs Gymnasium, normally in November as part of Homecoming week.
-University Athletics partners with the Cancer Society of The Bahamas for a cancer
-awareness campaign and commits part of the admission proceeds to the Society.
+Each year University Athletics hosts a four-team, two-day basketball classic at the Kendal
+G.L. Isaacs Gymnasium, normally in November as part of Homecoming week, partnering with the
+Cancer Society of The Bahamas for a cancer-awareness campaign (part of the admission proceeds
+goes to the Society).
 
-## Contacts
-- **Kimberley Rolle** — Director — 302-4521 — kimberley.rolle@ub.edu.bs
-- **Sean Bastian** — Assistant Director — 302-4591 — sean.bastian@ub.edu.bs
-- **Sasha Ferguson** — Head Athletic Trainer — 302-4373 — sasha.ferguson@ub.edu.bs
+## Administration & staff
+- **Kimberley Rolle** — Athletic Director — (242) 302-4521 — kimberley.rolle@ub.edu.bs
+- **Sean Bastian** — Assistant Athletic Director — (242) 302-4591 — sean.bastian@ub.edu.bs
+- **Christopher Saunders** — Sports Information Officer — (242) 302-4540 — christopher.saunders@ub.edu.bs
+- **Simba French** — Sports Information Assistant — (242) 302-4215 — simba.french@ub.edu.bs
+- **Sasha Johnson** — Head Athletic Trainer — (242) 302-4373 — sasha.johnson@ub.edu.bs
+- **Dehron Smith** — Assistant Athletic Trainer — (242) 302-4017 — dehron.smith@ub.edu.bs
+- **Kirsty Cartwright** — Administrative Assistant — (242) 302-4349 — kirsty.cartwright@ub.edu.bs
+- **Renbert Mortimer** — Creative Media Service & Fan Engagement Specialist — (242) 302-4567 — renbert.mortimer@ub.edu.bs
 
-### Coaches
-- Dion Godet — Head Coach, Men's Soccer — 302-4349
-- Harvey Mullings — Assistant Coach, Men's Soccer — 302-4349
-- Bacchus Rolle — Head Coach, Men's Basketball — 302-4349
-- Lavar Johnson — Assistant Coach, Men's Basketball — 302-4349
-- Cora Hepburn — Head Coach, Women's Volleyball — 302-4349
-- Renaldo Knowles — Assistant Coach, Women's Volleyball — 302-4349
-- Oria Knowles — Head Coach, Women's Softball — 302-4349
-- Bradley Cooper — Coach, Men & Women's Field — 302-4592 / bradley.cooper@ub.edu.bs
-- Rupert Gardiner — Coach, Men & Women's Track — 302-4349
-- James Rolle — Coach, Men & Women's Jumps — 302-4349
+## Coaches
+- **Men's Basketball** — Bacchus Rolle (Head Coach); Lavar Johnson (Assistant Head Coach)
+- **Cross Country (Men's & Women's)** — Ednal Rolle (Head Coach); Michael Bullard (Assistant Head Coach)
+- **Golf (Men's & Women's)** — Fredrick Taylor (Head Coach); Ian Coerbell (Assistant Head Coach)
+- **Men's Soccer** — Alexander Thompson (Head Coach); Collins Njenga and Andre Roberts (Assistant Head Coaches)
+- **Softball** — Shane Albury (Head Coach); Larikah Russell (Assistant Head Coach); Thomas Davis (Pitching Coach)
+- **Track & Field (Men's & Women's)** — Ednal Rolle (Head Coach); Michael Bullard (Assistant Head Coach); Kenva Culmer (Jumps Coach); Khyle Higgs (Throws Coach)
+- **Women's Volleyball** — Raymond Wilson (Head Coach); Shanyhah Bowe and Sydline Justilien (Assistant Head Coaches)
