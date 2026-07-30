@@ -15,7 +15,7 @@ Official University of The Bahamas Fall Semester 2026 academic calendar (Registr
 - **Monday–Tuesday, 18–19 May** — Registration for Disabilities/Special Needs, Student Trustees, Student Senators, Student Government Association, Student Athletes & Techno Mentors
 - **Wednesday, 20 May** — Early registration (and payment) begins for Fall 2026 (including DIS)
 - **Wednesday, 20 May** — Course Extension begins
-- **Wednesday, 20 May** — Bahamas Government Tertiary Grant and Private Awards online application **begins**
+- **Wednesday, 20 May** — Bahamas Government Tertiary Grant online application **begins**
 
 ## June 2026
 - **Friday, 19 June** — Course Cancellation Day
@@ -40,7 +40,7 @@ Official University of The Bahamas Fall Semester 2026 academic calendar (Registr
 - **Tuesday–Thursday, 18–20 August** — Mingoes Orientation & Welcome, UB North
 - **Tuesday–Friday, 18–21 August** — Registration (and payment) for new students only, online only (begins 12:01 a.m.)
 - **Tuesday, 18 August** — Deferred payment plan enrolment & initial instalment **begins** (new students, online only)
-- **Friday, 21 August** — Bahamas Government Tertiary Grant and Private Awards online application **ends**
+- **Friday, 21 August** — Bahamas Government Tertiary Grant online application **ends**
 - **Monday, 24 August** — **FIRST DAY OF CLASSES**
 - **Monday–Friday, 24–28 August** — Return of the Mingoes (Student Affairs)
 - **Tuesday, 25 August** — Deferred payment plan enrolment & initial instalment **begins** (late returning students, online only)
@@ -88,5 +88,6 @@ Official University of The Bahamas Fall Semester 2026 academic calendar (Registr
 Held on these weekends: 27–28 March; 1–2 May; 29–30 May; 19–20 June; 26–27 June;
 3–4 July; 23–24 October; 30–31 October; 6–7 November 2026.
 
-_Note: the Bahamas Government Tertiary Grant is separate from UB's Private Awards and
-Scholarships — see the Clarion announcements page for that portal's current windows._
+_Note: the Bahamas Government Tertiary Grant (above) is separate from UB's Private Awards
+and Scholarships, which run on their own schedule — see the Clarion announcements page
+for the current application windows (the second window closes 31 August 2026)._
