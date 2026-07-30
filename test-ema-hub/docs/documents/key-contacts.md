@@ -27,14 +27,36 @@ verification, graduation, etc.), see the [Registrar's Office page](registrar-faq
 - **VP, Enrolment Management & Athletics** — Marcella Elliott-Ferguson · (242) 302-4490 · vpema@ub.edu.bs
 - **VP, Student Services** — Joe Stubbs · (242) 422-6429 · joe.stubbs@ub.edu.bs
 
-## College deans
-- **Liberal & Fine Arts** — Douglas Barkey · douglas.barkey@ub.edu.bs · (242) 397-2664
-- **Business** — Marlo Murphy-Braynen · marlo.murphy-braynen@ub.edu.bs
-- **Tourism, Hospitality, Culinary Arts & Leisure Management (THe CALM)** — Mario Adderley (Interim) · mario.adderley@ub.edu.bs · (242) 677-3218
-- **Social & Educational Studies** — Thalia Micklewhite · thalia.micklewhite@ub.edu.bs · (242) 397-2609
-- **Pure & Applied Sciences** — Veronica Toppin (Interim) · veronica.toppin@ub.edu.bs · (242) 677-3236
+## Faculty deans
+For prerequisite, corequisite, or test-score errors, and academic-standing issues (e.g. probation), contact your faculty's Dean's Office:
+
+- **Liberal & Fine Arts (FLFA)** — Craig Smith · craig.smith@ub.edu.bs · (242) 397-2664
+- **Business & Tourism Studies (FBTS)** — Marlo Murphy-Braynen · marlo.murphy-braynen@ub.edu.bs · (242) 302-4372
+- **Social & Educational Studies (FSES)** — Thalia Micklewhite · thalia.micklewhite@ub.edu.bs · (242) 397-2609
+- **Pure & Applied Sciences (FPAS)** — Veronica Toppin · veronica.toppin@ub.edu.bs · (242) 302-4400
 - **Graduate Studies** — Remelda Moxey · remelda.moxey@ub.edu.bs · (242) 302-4372
 - **Faculty, UB North** — Veronica Ferguson · veronica.ferguson@ub.edu.bs
+- **Academic Enhancement** — Academic Affairs Office · academicaffairs@ub.edu.bs
+- **CeLEARN** — Dinipre Allen (AVP, Academic Affairs) · dinipre.allen@ub.edu.bs
+
+## Chairs & Heads of Department
+Confirmed appointments (term in parentheses):
+
+- **THe CALM** — Dr. Ruth Gardiner (Chair, 2025–2028)
+- **Nursing & Allied Health Professionals** — Ms. Doreen Butler (Chair, 2025–2028)
+- **Chemistry, Environmental & Life Sciences** — Mrs. Jacklyn Chisholm-Lightbourne (Chair, extended to July 2026)
+- **School of Business** — Dr. Jason Styles (Chair, 2025–2028)
+- **Social Science** — Mr. Michael Stevenson (Chair, 2025–2028)
+- **Management & Marketing** — Dr. Patsy Wilson (Head of Department, 2025–2028)
+- **Technology** — Mr. Alphonso Phillip (Head of Department, 2025–2026)
+- **Mathematics** — Dr. Felita Humes (Head of Department, 2025–2028)
+- **Nursing** — Dr. Terry Campbell (Head of Department, 2025–2028)
+
+## Finding a lecturer's email
+Don't have a staff email address? When composing an email, search the person's name (spelled correctly) in your UB Outlook directory — they'll appear with an @ub.edu.bs address. You can also find it in Banner: click the lecturer's name where they're listed as a course instructor, and it links to their email.
+
+## Updating your citizenship status
+Submit the relevant documents (passport, birth certificate, etc.) to the Office of the VP, Enrolment Management & Athletics.
 
 ## UB North (Grand Bahama)
 - **General enquiries** — (242) 688-5903

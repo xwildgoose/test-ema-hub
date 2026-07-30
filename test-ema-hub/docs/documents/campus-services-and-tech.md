@@ -33,3 +33,5 @@ The IT Help Desk is your single point of contact for technology problems. Contac
 **email (ithelpdesk@ub.edu.bs)**, **phone ((242) 302-4588)**, or in person at **room A-9,
 Keva M. Bethel Building** (UB Oakes Field); UB North has its own on-site OTS office. Issues
 are resolved on first contact or logged as a ticket and routed to the right team.
+
+If you've changed your password and still can't log into your UB email, computer, Banner, or Moodle, come to the Help Desk in person (A Block, room A-9) or WhatsApp **(242) 427-5609**.

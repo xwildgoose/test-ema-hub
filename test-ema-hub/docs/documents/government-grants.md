@@ -57,6 +57,8 @@ Both are up to **$475 per month** per student (fall and spring only):
 - **Nurse's Stipend** — Bahamian Nursing students: full-time, enrolled in an undergraduate Nursing degree programme, approved by the Ministry of Health, maintaining a minimum cumulative GPA of **2.75**. Pre-Nursing students are not eligible until they enter the BSc Nursing degree.
 - **Teacher's Stipend** — Bahamian Teacher Education students: full-time, enrolled in an undergraduate Education degree programme, approved by the Ministry of Education, maintaining a minimum cumulative GPA of **3.00** (new students also need five BGCSE passes, including Mathematics and English, at "C" or above).
 
+**How to apply for a stipend:** submit a **Bahamas Government Tertiary Grant** application and, on the question asking whether you'd like to be considered for the Nurse's or Teacher's stipend, select **Yes** and submit.
+
 ## Keeping your award
 - **GPA:** maintain a cumulative GPA of at least 2.00. **Probation** is when your GPA falls below 2.00. You may be on probation **once** while in your programme; if your GPA falls below 2.00 again after probation ends, the award is **revoked**.
 - **Outstanding balances:** no financial assistance is given while you owe a balance from a previous semester.

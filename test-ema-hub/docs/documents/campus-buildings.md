@@ -4,6 +4,8 @@ The current names and codes for buildings and facilities on the UB Oakes Field c
 Providence). Many were formerly known by a "Block" letter — both are listed so you can find
 a place whichever name you hear.
 
+**Campus maps** (to find a building, or if you're lost): https://www.ub.edu.bs/admissions/campus-maps-2/
+
 | Formerly / also known as | Building or facility | Code |
 |---|---|---|
 | B Block | Business Building | BUS |
