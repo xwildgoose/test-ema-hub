@@ -21,11 +21,14 @@ your programme.
 - **Elective courses** — courses in any area of interest (some programmes specify which electives count toward the degree).
 
 ## General Education
-Bachelor students complete at least **27 lower-level and 9 upper-level** Gen Ed credits;
-associate students complete the lower-level set. Gen Ed spans the First Year Seminar, two
-foreign-language courses, composition/rhetoric, Computer Literacy, PE/Health/Nutrition,
-Mathematics, and Humanities/Social/Natural Sciences. Check the UB website for the list of
-approved Gen Ed courses.
+Bachelor students take a minimum of **14 Gen Ed courses (37 credit hours)**; associate
+students take a minimum of **11 Gen Ed courses (28 credit hours)**. Gen Ed is organised into
+strands: Student Development, Literacy, Numeracy, Foreign Language, Computer Literacy,
+Physical Education/Health/Nutrition, Humanities, Social Sciences, and Natural Sciences. Not
+every Gen Ed course is offered each semester — when you register you'll only see those
+offered that term. Check your programme of study (it may specify particular Gen Ed courses)
+and the UB website for the approved list and possible exemptions:
+http://www.ub.edu.bs/academics/undergraduate-studies/general-education/
 
 **First-year Gen Ed courses** — during your first year, be sure to complete: the **First
 Year Seminar**, **Writing & Rhetoric I & II**, **Computer Literacy**, and your

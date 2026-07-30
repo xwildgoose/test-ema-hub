@@ -24,7 +24,7 @@ you are registered (failure to properly register/attend can result in an "F").
 - **Campus Restriction** — the section is offered at another campus. Sections ending in **"N"** are at UB North; you can't register for them from Oakes Field, and vice versa.
 - **Prerequisite or Test Score Error** — you're missing a requirement; if you've completed it, request an override from your Dean.
 - **Corequisite Required** — register for both lecture and lab/practicum together, using both CRNs.
-- **Time Ticket Prevents Registration** — you're outside your assigned registration window; check the Registration Grouping Calendar, or email registrarregister@ub.edu.bs.
+- **Time Ticket Prevents Registration** (also shown as "Course status dates not within range for part of term") — you're outside your assigned registration window, or the registration deadline for your group has passed; check the Academic Calendar and the Registration Grouping Calendar, or email registrarregister@ub.edu.bs.
 - **Invalid Level for Course** — the course doesn't align with your programme; contact the Registrar's Office.
 - **Invalid or Undefined Enrollment Status** — verify the CRN; if correct, contact the Registrar's Office.
 - **Maximum Hours Exceeded** — the limit is 18 credits (LLB: 20); contact your Dean for a credit-overload request.
