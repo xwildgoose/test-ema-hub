@@ -106,20 +106,6 @@ outside New Providence are coded by island:
 Days of the week are coded: **M** Mon · **T** Tue · **W** Wed · **R** Thu · **F** Fri · **S** Sat.
 The UB day runs **8:00 a.m.–10:00 p.m.**, normally Monday–Friday (occasionally Saturday).
 
-## Academic programme structure
-> Overlaps upcoming files (Gen Ed / new-student requirements) — dedupe when those are consolidated.
-
-**Bachelor degrees** (BA, BBA, BEd, LLB, BSc): minimum **120 credit hours**, cumulative GPA
-**2.00** overall and **2.00** in the major. **Associate degrees** (AA, AS, AAS): minimum
-**60 credit hours**, same GPA minimums.
-
-- **Majors:** a concentration of courses (UB offers ~55 majors); minimum 66 credit hours in the major (≥24 lower-level, ≥42 upper-level), GPA 2.00 in the major.
-- **Double major** (two majors, one degree): ≥15 UB credits, meet both majors' admission requirements, submit the Double Major Request Form to the Chair/Dean of the second major ≥1 year before graduation.
-- **Dual degree** (two degrees): pursue both simultaneously and graduate together; ≥15 UB credits, <45 if one is an associate degree, <75 for two bachelor degrees, plus an approved Dual Degree Request Form.
-- **Minor:** a shorter course sequence recorded on transcript and diploma; ≥30 college-level UB credits, GPA 2.00, advisor consultation and an approved Minor Advisement Form. Some professional programmes (e.g., Education, Nursing) prohibit minors.
-- **General Education:** bachelor students take ≥27 lower-level and 9 upper-level Gen Ed credits (First Year Seminar, two foreign-language courses, composition/rhetoric, Computer Literacy, PE/Health/Nutrition, Mathematics, Humanities/Social/Natural Sciences); associate students take the lower-level set. Check the website for approved Gen Ed courses.
-- **Electives:** bachelor students normally take ≥9 lower-level and 9 upper-level elective credits; associate students take ≥3 lower-level elective courses.
-
 ## Who to email at the Registrar's Office
 Use the account that matches your need. Forms are on the Academic **Forms & Policies** page
 (http://www.ub.edu.bs/academics/forms-policies/).
