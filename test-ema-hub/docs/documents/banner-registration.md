@@ -42,6 +42,13 @@ Add and Drop** box (next to **Submit** in the lower-right of the Summary box):
 3. Check the **Conditional Add and Drop** box.
 4. Click **Submit**.
 
+## Tips if a class is full or you can't register
+- **Ask for an override.** If a legitimate prerequisite or level error is blocking you, the Chair or Dean who owns the course can grant an override — you'll need to justify the request. (A *level error* means Banner doesn't yet see the classification the course requires, e.g. junior standing / 60+ credits.)
+- **Pick a different Gen Ed course.** If the Gen Ed you wanted is full, take another course in a strand you still need — e.g. a Natural Science instead of a full Social Science, or COMM 107 (Human Communication) instead of a full ENGL 130. See the Gen Ed list: https://www.ub.edu.bs/academics/undergraduate-studies/general-education/
+- **Take an elective** you already qualify for, to keep your credit load up.
+- **Ask a lecturer for a course extension** into a full class — start by emailing the lecturer.
+- **Check Banner periodically.** High-demand classes (e.g. ENGL 119/120/300, MATH 140) often open new sections as low-enrolled classes are cancelled or lecturers add overloads.
+
 ## Quick reference
 | Task | Navigation |
 |---|---|

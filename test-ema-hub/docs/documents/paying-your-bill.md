@@ -21,10 +21,34 @@ until your bill is paid.
 3. Under the **Method** dropdown, select **Credit or Debit Card**, then click **Select**.
 4. Enter your card number in the **Card number** field, then click **Continue**. If you see "Your card could not be validated against the accepted types," the number is incorrect or invalid — re-enter it or choose another payment option.
 
+## Deferred Payment Plan
+The **Deferred Payment Plan** is a voluntary short-term instalment option that spreads your
+semester tuition and fees over the term, with **no interest and no prepayment penalty**.
+
+**Eligibility** — to enrol you must:
+
+- have paid all prior balances in full;
+- be registered for the semester;
+- be a Bahamian citizen and/or resident;
+- have a tuition-and-fees balance of at least **$300** for the semester;
+- pay a non-refundable **$50 processing fee** and the **initial one-third down payment** on enrolment; and
+- provide a Visa/Mastercard credit or debit card for the fee, down payment, and automatic instalment deductions.
+
+**How to enrol (online, via Banner Self-Service):** sign in, then on the Student Profile
+click **Online Payment, Payment Plans and Account Activity** -> **Payment Plans** ->
+**Enroll in Payment Plan**, and follow the prompts (including scheduling the automatic
+instalment deductions).
+
+**Instalments** — after the one-third down payment and $50 fee at enrolment, the **second**
+payment is due one month later and the **third and final** payment two months after
+enrolment. A **$50 late fee** applies each month for late or incomplete payments, and
+past-due accounts may face **deregistration and/or a financial hold**. More detail:
+https://www.ub.edu.bs/admissions/deferred-payment-plan/
+
 ## Quick reference
 UB website → **Banner** → **Self Service (Student)** → sign in → **Online Payment** →
 **Make Payment** → choose term → choose payment method → review → **Submit Payment** →
 print receipt.
 
 ## Contact
-Accounts Receivable — accountsreceivable@ub.edu.bs · (242) 302-4201 / 302-4209.
+Accounts Receivable — accountsreceivable@ub.edu.bs · (242) 302-4513 / 302-4299.
