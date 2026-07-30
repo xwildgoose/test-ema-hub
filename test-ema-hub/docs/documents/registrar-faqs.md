@@ -61,7 +61,7 @@ notified at your **UB email address** and given a set time frame to register.
 The office that placed a hold is shown on your Banner Self-Service account; contact that
 office to learn what's needed to clear it.
 
-- **Financial hold:** email Accounts Receivable at accountsreceivable@ub.edu.bs, or call **302-4201** / **302-4209**.
+- **Financial hold:** email Accounts Receivable at accountsreceivable@ub.edu.bs, or call **302-4513** / **302-4299**.
 
 ## Overrides and course exemptions
 - **Override (prerequisite, class, program, level):** request from your Dean or Chair (see error messages above).
@@ -119,4 +119,4 @@ Use the account that matches your need. Forms are on the Academic **Forms & Poli
 - **Registrar, Main Campus:** (242) 302-4312 / 302-4522 · WhatsApp (242) 477-1729 or (242) 357-5650 · registrarregister@ub.edu.bs
 - **Registrar, UB North:** (242) 688-5932 · ubnregistrar@ub.edu.bs
 - **IT Helpdesk (Banner access):** (242) 302-4588 · ithelpdesk@ub.edu.bs · WhatsApp (242) 427-5609
-- **Accounts Receivable (financial holds):** (242) 302-4201 / 302-4209 · accountsreceivable@ub.edu.bs
+- **Accounts Receivable (financial holds):** (242) 302-4513 / 302-4299 · accountsreceivable@ub.edu.bs

@@ -30,7 +30,7 @@ It is sometimes just called "the grant."
 - Summer session is optional; if taken, enrol in at least 3 credits.
 
 ## Accommodation Grant
-Up to **$500 per month** per student (fall and spring only) to help **Family Island
+Up to **$500 for the academic year** (August to April) to help **Family Island
 students** — those who graduated high school on a Bahamian island and relocated to New
 Providence or Grand Bahama for UB — with living accommodation.
 
@@ -54,8 +54,8 @@ pass all courses with a "C" or above.
 ## Nurse's & Teacher's Stipends
 Both are up to **$475 per month** per student (fall and spring only):
 
-- **Nurse's Stipend** — Bahamian Nursing students: full-time, enrolled in an undergraduate Nursing degree programme, approved by the Ministry of Health, maintaining the required minimum cumulative GPA.
-- **Teacher's Stipend** — Bahamian Teacher Education students: full-time, enrolled in an undergraduate Education degree programme, approved by the Ministry of Education, maintaining the required cumulative GPA.
+- **Nurse's Stipend** — Bahamian Nursing students: full-time, enrolled in an undergraduate Nursing degree programme, approved by the Ministry of Health, maintaining a minimum cumulative GPA of **2.75**. Pre-Nursing students are not eligible until they enter the BSc Nursing degree.
+- **Teacher's Stipend** — Bahamian Teacher Education students: full-time, enrolled in an undergraduate Education degree programme, approved by the Ministry of Education, maintaining a minimum cumulative GPA of **3.00** (new students also need five BGCSE passes, including Mathematics and English, at "C" or above).
 
 ## Keeping your award
 - **GPA:** maintain a cumulative GPA of at least 2.00. **Probation** is when your GPA falls below 2.00. You may be on probation **once** while in your programme; if your GPA falls below 2.00 again after probation ends, the award is **revoked**.
