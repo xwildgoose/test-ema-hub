@@ -9,6 +9,13 @@ your programme of study and helps you plan your course schedules (School Chairs 
 for their programmes). Good advising keeps you on an ideal time-to-degree and helps you meet
 your academic and career goals. You can track your own progress in **DegreeWorks**.
 
+**Finding your advisor and advisement times:** your assigned advisor is shown in
+**DegreeWorks**. Each semester the schools publish an advising schedule — with times,
+locations, and advisors by programme — and send it to students by **UB email** before the
+semester begins. **The Fall 2026 advising schedule hasn't been released yet**; until it is,
+check **DegreeWorks** and your **UB email**, or contact your **school or department**
+directly. If you're unsure who to reach, email EMATeam@ub.edu.bs.
+
 First-year students also take the **First Year Seminar (COUN 100)** — a compulsory 14-week
 seminar covering self-evaluation, study skills, time and stress management, and University
 policies, with a community-service or personal-growth component.
