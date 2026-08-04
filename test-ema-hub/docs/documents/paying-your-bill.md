@@ -45,6 +45,19 @@ enrolment. A **$50 late fee** applies each month for late or incomplete payments
 past-due accounts may face **deregistration and/or a financial hold**. More detail:
 https://www.ub.edu.bs/admissions/deferred-payment-plan/
 
+## What happens if you don't pay on time?
+What happens after the payment deadline depends on how much you still owe (after any grant or
+aid is applied). For **returning students** the deadline is **11 August** — pay in person at
+the Cashier's cage, or via Banner Self-Service by 11:59 p.m. (see the
+[Academic Calendar](fall-2026-key-dates.md)). If a balance is still outstanding the next day:
+
+- **Balance of $303 or less** — a **$150 late payment fee** is added to your account. You keep your classes, but you then owe the balance **plus** the $150 fee. (A small balance can cost more in fees than the balance itself — for example, a **$127.50** balance becomes **$277.50** once the fee is added.)
+- **Balance above $303** — the **de-registration process begins** and you risk being dropped from your courses (this includes past-due payment-plan instalments).
+
+Either way you still owe the balance, and **unpaid students face a final de-registration** in
+early September. To avoid the late fee, pay by the deadline or enrol in the **Deferred Payment
+Plan** before it.
+
 ## Quick reference
 UB website → **Banner** → **Self Service (Student)** → sign in → **Online Payment** →
 **Make Payment** → choose term → choose payment method → review → **Submit Payment** →
